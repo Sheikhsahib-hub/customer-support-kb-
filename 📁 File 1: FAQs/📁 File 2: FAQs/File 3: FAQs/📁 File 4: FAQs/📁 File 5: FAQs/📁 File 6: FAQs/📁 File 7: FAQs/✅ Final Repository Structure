@@ -1,0 +1,12 @@
+customer-support-kb/
+│
+├── README.md
+│
+└── FAQs/
+    ├── Password Reset.md
+    ├── Login Issues.md
+    ├── Account Recovery.md
+    ├── Refund Policy.md
+    ├── Payment Failed.md
+    ├── Shipping Delay.md
+    └── Contact Support.md
